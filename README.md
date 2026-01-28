@@ -29,8 +29,6 @@ My current journey is centered on deepening my understanding of how backend syst
 
 I value clarity, consistency, and continuous learning, and I enjoy transforming abstract concepts into reliable and well-structured solutions.
 
----
-
 ### Current focus
 
 - Java backend development
@@ -44,20 +42,20 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
 ### Technologies
 
 **Languages**
-  
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 **Frameworks**
-  
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases**
-  
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
-  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -66,11 +64,11 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
 
 ### GitHub activity
 
-<img width="400"
-     src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&theme=github_dark&cache_seconds=86400" />
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<img width="300"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&theme=github_dark&cache_seconds=86400" />
 
 
 ---
