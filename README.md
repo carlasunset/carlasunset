@@ -66,11 +66,12 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
 
 ### GitHub activity
 
-<img align="center"
+<img width="400"
      src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&theme=github_dark&cache_seconds=86400" />
 
-<img height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />
+<img width="300"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&theme=github_dark&cache_seconds=86400" />
+
 
 ---
 
