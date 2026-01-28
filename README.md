@@ -68,7 +68,7 @@ My current journey is centered on deepening my understanding of how backend syst
 ### GitHub activity
 
 <p align="center">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=carlasunset&theme=github-dark"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&hide=commits&theme=github_dark&cache_seconds=86400" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
