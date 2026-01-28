@@ -27,16 +27,6 @@ I’m a backend-focused developer with a strong interest in **Java**, **software
 
 My current journey is centered on deepening my understanding of how backend systems are built, structured, and maintained — from core Java concepts to API design and clean architecture principles.
 
-I value clarity, consistency, and continuous learning, and I enjoy transforming abstract concepts into reliable and well-structured solutions.
-
-### Current focus
-
-- Java backend development
-- Object-Oriented Programming and core Java APIs
-- Collections, Generics, Streams, and language fundamentals
-- RESTful APIs and backend best practices
-- Spring Boot fundamentals and project organization
-
 ---
 
 ### Technical stack
@@ -62,14 +52,6 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
 
 ---
 
-### GitHub activity
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 ### Contact
 
 <p>
@@ -80,3 +62,14 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+
