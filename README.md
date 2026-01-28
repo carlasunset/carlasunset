@@ -39,7 +39,7 @@ I value clarity, consistency, and continuous learning, and I enjoy transforming 
 
 ---
 
-### Technologies
+### Technical stack
 
 **Languages**
 
