@@ -50,6 +50,10 @@ My current journey is centered on deepening my understanding of how backend syst
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
 ---
 
 ### Contact
@@ -62,15 +66,3 @@ My current journey is centered on deepening my understanding of how backend syst
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### GitHub activity
-
-<p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&hide=commits&theme=github_dark&cache_seconds=86400" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
-
-
