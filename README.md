@@ -69,7 +69,7 @@ My current journey is centered on deepening my understanding of how backend syst
 
 <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlasunset&show_icons=true&hide=commits&theme=github_dark&cache_seconds=86400" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 
