@@ -51,10 +51,6 @@ My current journey is centered on deepening my understanding of how backend syst
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlasunset&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
 ---
 
 ### Contact
