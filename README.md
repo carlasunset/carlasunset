@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Carla 👋🌻</h1>
 
 <p align="center">
-  Backend Software Developer focused on <b>Java</b> and <b>Backend Engineering</b><br>
-  Postgraduate student specializing in Java-based systems
+  Backend & Data-focused Software Developer  
+  Bridging backend engineering with data analysis using Python
 </p>
 
 ---
 
 ### About me
 
-I’m a backend-focused developer with a strong interest in **Java**, **software design**, and **backend fundamentals**.
+I’m a developer with a strong foundation in backend engineering and a growing focus on data analysis.
 
-My current journey is centered on deepening my understanding of how backend systems are built, structured, and maintained — from core Java concepts to API design and clean architecture principles.
+My experience is rooted in **Java**, **software design**, and **backend fundamentals**, where I’ve developed a solid understanding of how systems are built, structured, and maintained.
+
+Currently, I’m expanding my skill set into the data domain, working with **Python** and tools like **Pandas** and **Jupyter Notebook** to explore, clean, and analyze data.
+
+I’m especially interested in roles that combine backend systems with data — such as analytics engineering and data-driven applications.
 
 ---
 
@@ -35,6 +39,7 @@ My current journey is centered on deepening my understanding of how backend syst
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks**
 
@@ -45,11 +50,17 @@ My current journey is centered on deepening my understanding of how backend syst
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
