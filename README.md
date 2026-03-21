@@ -47,7 +47,7 @@ I’m especially interested in roles that combine backend systems with data — 
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-336791?style=for-the-badge&logoColor=white)
 
