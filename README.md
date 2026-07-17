@@ -74,17 +74,6 @@ Main activities:
 
 ---
 
-### Currently learning
-
-- Analytics Engineering
-- dbt Core / dbt Cloud
-- Databricks
-- Data Modeling
-- Lakehouse Architecture
-- Data Products
-
----
-
 ### Certifications
 
 - ✅ dbt Fundamentals
