@@ -77,14 +77,11 @@ Main activities:
 ### Currently learning
 
 - Analytics Engineering
-- dbt Core
+- dbt Core / dbt Cloud
 - Databricks
 - Data Modeling
 - Lakehouse Architecture
-- Delta Lake
 - Data Products
-- Data Quality
-- SQL Optimization
 
 ---
 
