@@ -78,7 +78,7 @@ Main activities:
 
 - ✅ dbt Fundamentals
 - ✅ Databricks Fundamentals
-- 🎯 Preparing for Databricks Certified Data Analyst Associate
+- ✅ Databricks Certified Data Analyst Associate
 
 ---
 
