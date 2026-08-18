@@ -5,18 +5,18 @@
 <h1 align="center">Hi, I'm Carla 👋🌻</h1>
 
 <p align="center">
-  Analytics Engineering | SQL | dbt | Databricks
+  Analytics Engineer | SQL • dbt • Databricks • Python • Data Modeling
 </p>
 
 ---
 
 ### About me
 
-I'm an Analytics Engineering trainee focused on building reliable and well-structured analytical datasets using modern data platforms.
+I'm an Analytics Engineer trainee focused on building reliable, well-structured, and analytics-ready data products using modern data platforms.
 
-Currently, I'm developing projects with **SQL**, **dbt**, **Databricks**, and **Python**, applying concepts such as data modeling, ELT, data quality, documentation, and analytics engineering best practices.
+I work with **SQL, dbt, Databricks, Python, and dimensional modeling**, applying concepts such as ELT, data quality, documentation, lineage, testing, and Analytics Engineering best practices.
 
-My current focus is understanding how analytical data platforms are designed, maintained, and scaled to support business decisions through trusted and reusable data products.
+My main focus is designing analytical data layers that transform raw and transactional data into trustworthy, reusable datasets that support business analysis and decision-making.
 
 ---
 
@@ -27,6 +27,7 @@ My current focus is understanding how analytical data platforms are designed, ma
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -40,9 +41,27 @@ My current focus is understanding how analytical data platforms are designed, ma
 
 ### Featured projects
 
-#### 🚤 LH Nautics Data Analysis
+#### 🏗️ [Adventure Works Analytics Platform](https://github.com/carlasunset/adventure-works-analytics-platform)
 
-End-to-end data analysis project developed during the Lighthouse selection process.
+End-to-end Analytics Engineering platform built with **dbt, Databricks, and Power BI**, transforming transactional sales data into reliable and analytics-ready dimensional data products.
+
+Main activities:
+
+- Layered dbt architecture (Sources, Staging, Intermediate, and Marts)
+- Dimensional modeling with fact, dimensions, and bridge models
+- Data quality tests and business-rule validations
+- dbt contracts, documentation, and lineage
+- Financial reconciliation and fanout validation
+- Git-based development workflow with feature branches and pull requests
+- Power BI dashboard connected to governed dimensional marts
+
+**Tech:** dbt • Databricks • SQL • Power BI • Git
+
+---
+
+#### 🚤 [LH Nautics Data Analysis](https://github.com/carlasunset/lh-nautics-data-analysis)
+
+End-to-end data analysis project focused on transforming raw data into analytical insights and data-driven solutions.
 
 Main activities:
 
@@ -50,35 +69,19 @@ Main activities:
 - Data cleaning and standardization
 - SQL business analysis
 - Customer and sales analysis
+- Product profitability analysis
 - Demand forecasting
 - Product recommendation system
 
-**Tech:** SQL • Python • Pandas • Scikit-learn
-
----
-
-#### 🏦 Banvic Analytics Engineering
-
-Analytics Engineering project developed with **dbt** and **Databricks**, implementing an analytical layer based on dimensional modeling.
-
-Main activities:
-
-- Layered modeling (Staging, Intermediate and Marts)
-- Dimensional modeling
-- Automated data tests
-- Documentation with YAML
-- dbt packages
-- Databricks development environment
-
-**Tech:** dbt • Databricks • SQL • YAML
+**Tech:** SQL • Python • Pandas
 
 ---
 
 ### Certifications
 
+- ✅ Databricks Certified Data Analyst Associate
 - ✅ dbt Fundamentals
 - ✅ Databricks Fundamentals
-- ✅ Databricks Certified Data Analyst Associate
 
 ---
 
