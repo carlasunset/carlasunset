@@ -79,9 +79,8 @@ Main activities:
 
 ### Certifications
 
+- ✅ dbt Certified Developer
 - ✅ Databricks Certified Data Analyst Associate
-- ✅ dbt Fundamentals
-- ✅ Databricks Fundamentals
 
 ---
 
